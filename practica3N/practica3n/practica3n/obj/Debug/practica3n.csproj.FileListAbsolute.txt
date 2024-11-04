@@ -1,0 +1,11 @@
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\bin\Debug\practica3n.exe.config
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\bin\Debug\practica3n.exe
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\bin\Debug\practica3n.pdb
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\obj\Debug\practica3n.csproj.AssemblyReference.cache
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\obj\Debug\practica3n.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\obj\Debug\practica3n.Form1.resources
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\obj\Debug\practica3n.Properties.Resources.resources
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\obj\Debug\practica3n.csproj.GenerateResource.cache
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\obj\Debug\practica3n.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\obj\Debug\practica3n.exe
+C:\Users\labc202\Desktop\practica3N\practica3n\practica3n\obj\Debug\practica3n.pdb
